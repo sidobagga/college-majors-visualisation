@@ -579,12 +579,7 @@ function draw8(){
 
 let activationFunctions = [
     draw1,
-    draw2,
-    draw3,
-    draw4,
-    draw5, 
-    draw6, 
-    draw7,
+    draw2
 ]
 
 //All the scrolling function
